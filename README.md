@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fg7fwklx0xt5dtev?svg=true)](https://ci.appveyor.com/project/Sashkasam/matchers-dz)
 # Matchers
 
 ## Легенда
